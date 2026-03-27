@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
+python-multipart
+json
+zipfile
+io
+os 
+requests
+motor
