@@ -1,0 +1,63 @@
+{
+  "metrics": {
+    "num_quizzes": 5,
+    "questions_per_quiz": 6,
+    "total_runtime_sec": 69.4702,
+    "throughput_quizzes_per_sec": 0.072,
+    "latency_ms": {
+      "min": 11867.326,
+      "mean": 13893.972,
+      "median": 12265.294,
+      "p95": 18268.842,
+      "max": 19305.864
+    },
+    "score_percentage": {
+      "mean": 52.5,
+      "stdev": 8.58,
+      "min": 41.67,
+      "max": 66.67
+    }
+  },
+  "runs": [
+    {
+      "quiz_id": 0,
+      "latency_ms": 19305.864,
+      "score_percentage": 54.17,
+      "knowledge_level": "Basic Understanding",
+      "obtained_marks": 13,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 1,
+      "latency_ms": 11910.622,
+      "score_percentage": 41.67,
+      "knowledge_level": "Basic Understanding",
+      "obtained_marks": 10,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 2,
+      "latency_ms": 12265.294,
+      "score_percentage": 66.67,
+      "knowledge_level": "Moderate Understanding",
+      "obtained_marks": 16,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 3,
+      "latency_ms": 14120.755,
+      "score_percentage": 45.83,
+      "knowledge_level": "Basic Understanding",
+      "obtained_marks": 11,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 4,
+      "latency_ms": 11867.326,
+      "score_percentage": 54.17,
+      "knowledge_level": "Basic Understanding",
+      "obtained_marks": 13,
+      "total_marks": 24
+    }
+  ]
+}

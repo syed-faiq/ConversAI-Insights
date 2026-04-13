@@ -1,0 +1,14 @@
+Quiz Evaluation Benchmark
+mode=real
+num_quizzes=5
+questions_per_quiz=6
+total_runtime_sec=69.4702
+throughput_quizzes_per_sec=0.072
+latency_ms=min:11867.326 mean:13893.972 median:12265.294 p95:18268.842 max:19305.864
+score_percentage=mean:52.5 stdev:8.58 min:41.67 max:66.67
+runs:
+quiz=0 latency_ms=19305.864 score=54.17 level=Basic Understanding
+quiz=1 latency_ms=11910.622 score=41.67 level=Basic Understanding
+quiz=2 latency_ms=12265.294 score=66.67 level=Moderate Understanding
+quiz=3 latency_ms=14120.755 score=45.83 level=Basic Understanding
+quiz=4 latency_ms=11867.326 score=54.17 level=Basic Understanding

@@ -1,0 +1,63 @@
+{
+  "metrics": {
+    "num_quizzes": 5,
+    "questions_per_quiz": 6,
+    "total_runtime_sec": 19.1651,
+    "throughput_quizzes_per_sec": 0.2609,
+    "latency_ms": {
+      "min": 3496.028,
+      "mean": 3832.958,
+      "median": 3662.61,
+      "p95": 4444.029,
+      "max": 4580.868
+    },
+    "score_percentage": {
+      "mean": 3.33,
+      "stdev": 4.08,
+      "min": 0.0,
+      "max": 8.33
+    }
+  },
+  "runs": [
+    {
+      "quiz_id": 0,
+      "latency_ms": 4580.868,
+      "score_percentage": 0.0,
+      "knowledge_level": "Low",
+      "obtained_marks": 0,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 1,
+      "latency_ms": 3528.607,
+      "score_percentage": 8.33,
+      "knowledge_level": "Low",
+      "obtained_marks": 2,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 2,
+      "latency_ms": 3662.61,
+      "score_percentage": 8.33,
+      "knowledge_level": "Low",
+      "obtained_marks": 2,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 3,
+      "latency_ms": 3896.677,
+      "score_percentage": 0.0,
+      "knowledge_level": "Low",
+      "obtained_marks": 0,
+      "total_marks": 24
+    },
+    {
+      "quiz_id": 4,
+      "latency_ms": 3496.028,
+      "score_percentage": 0.0,
+      "knowledge_level": "Low",
+      "obtained_marks": 0,
+      "total_marks": 24
+    }
+  ]
+}

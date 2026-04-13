@@ -1,0 +1,24 @@
+Quiz Evaluation Benchmark
+mode=real
+num_quizzes=15
+questions_per_quiz=8
+total_runtime_sec=230.1255
+throughput_quizzes_per_sec=0.0652
+latency_ms=min:12798.192 mean:15341.606 median:16130.105 p95:17762.365 max:17860.028
+score_percentage=mean:44.95 stdev:11.39 min:22.58 max:70.97
+runs:
+quiz=0 latency_ms=14215.659 score=51.61 level=Basic Understanding
+quiz=1 latency_ms=12798.192 score=32.26 level=Low
+quiz=2 latency_ms=16176.937 score=51.61 level=Basic Understanding
+quiz=3 latency_ms=16130.105 score=35.48 level=Low
+quiz=4 latency_ms=13774.029 score=70.97 level=Moderate Understanding
+quiz=5 latency_ms=17720.509 score=22.58 level=Low
+quiz=6 latency_ms=16625.36 score=32.26 level=Low
+quiz=7 latency_ms=14276.862 score=54.84 level=Basic Understanding
+quiz=8 latency_ms=12863.79 score=45.16 level=Basic Understanding
+quiz=9 latency_ms=16637.462 score=35.48 level=Low
+quiz=10 latency_ms=16231.084 score=48.39 level=Basic Understanding
+quiz=11 latency_ms=14100.257 score=48.39 level=Basic Understanding
+quiz=12 latency_ms=14329.02 score=48.39 level=Basic Understanding
+quiz=13 latency_ms=16384.803 score=45.16 level=Basic Understanding
+quiz=14 latency_ms=17860.028 score=51.61 level=Basic Understanding
